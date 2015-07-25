@@ -1,0 +1,74 @@
+.wallpaperDraw {
+  height: 568px;
+  width: 320px;
+  /*background-color: yellow;*/
+  display: block;
+  background-image: url("http://www.lonestarproductions.com/wp-content/uploads/2013/09/iOS-7-Lock-Screen-576x1024.png");
+  background-size: 100%;
+  margin: 30px;
+}
+
+.imageCol {
+  height:50px;
+  width:50px;
+  margin: 10px;
+  float:left;
+  display: inline;
+}
+.imageCol img {
+  height:50px;
+  width:50px;
+  size:100%;
+}
+
+.chart {
+    background: #eee;
+    padding: 3px;
+}
+
+.chart div {
+  width: 0;
+  transition: all 1s ease-out;
+  -moz-transition: all 1s ease-out;
+  -webkit-transition: all 1s ease-out;
+}
+
+.chart div {
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 5px;
+  color: white;
+  box-shadow: 2px 2px 2px #666;
+}
+
+.goat {
+  height:50px;
+  width:50px;
+  x: 100;
+  y: 100;
+  margin: 10px;
+  background-color: blue;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.oldWallpapers {
+  display:inline;
+  margin:20px;
+}
+
+.submit-button {
+  margin-bottom: 30px
+}
+
+.names {
+  display: inline-block;
+}
+
+h1 {
+  text-align: center;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "phone-goats",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.4.2",
+    "connect": "^3.3.5",
+    "express": "~4.5.1",
+    "method-override": "~2.0.2",
+    "mongoose": "~3.8.0",
+    "q": "^1.4.1",
+    "tmp": "0.0.26",
+    "twilio": "^2.2.1"
+  }
+}
